@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/reactjs-app2/static/js/main.94210033.js",
+    "static/media/youngwoman.png": "/reactjs-app2/static/media/youngwoman.1808eaf8e4582d3b8ef2.png",
+    "static/media/phone.png": "/reactjs-app2/static/media/phone.e8f435fb2244a17d38f6.png",
+    "static/media/yelgirl-removebg-preview.png": "/reactjs-app2/static/media/yelgirl-removebg-preview.6713112f912feba1e4e0.png",
+    "static/media/search-removebg-preview.png": "/reactjs-app2/static/media/search-removebg-preview.fd04489ae43eaff6d319.png",
+    "static/media/playwight.png": "/reactjs-app2/static/media/playwight.765224788ee91532acd0.png",
+    "index.html": "/reactjs-app2/index.html",
+    "main.94210033.js.map": "/reactjs-app2/static/js/main.94210033.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.94210033.js"
+  ]
+}
